@@ -1,0 +1,11 @@
+Commands used in the Docker Assignment:
+-docker build
+-docker version
+-docker images
+-docker run
+-docker ps
+-docker rm
+-docker login 
+-docker pull
+-docker info
+-docker network
